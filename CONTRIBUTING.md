@@ -1,5 +1,7 @@
 # Contributing
 
+Hier steht jetzt mein Text!
+
 Your contributions are always welcome!
 
 ## Guideline
